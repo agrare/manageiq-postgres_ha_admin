@@ -1,5 +1,5 @@
 require 'active_support/all'
-require 'util/miq-password'
+require 'manageiq/password'
 require 'fileutils'
 
 module ManageIQ
